@@ -1,6 +1,4 @@
-
 # Robot Programming Project - University of Birmingham
-description
+***Autonomous Robot Warehouse using LEGO NXT Robots, written in Java using LeJOS***
 
-# Authors
-Brett Saunders - Team Leader
+Example: [https://www.youtube.com/watch?v=O-oL2GZGN28](https://www.youtube.com/watch?v=O-oL2GZGN28)
